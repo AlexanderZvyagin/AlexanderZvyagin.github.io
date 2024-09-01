@@ -1,0 +1,19 @@
+.. mc-gpu-engine documentation master file, created by
+   sphinx-quickstart on Sun Sep  1 19:18:24 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+My Reveal.js presentation
+=========================
+
+Agenda
+------
+
+* Author
+* Feature
+
+
+Author: Who am I
+================
+
+Own self promotion
